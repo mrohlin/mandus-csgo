@@ -1,0 +1,86 @@
+body { 
+    background-image: url(bilder/csgo1.jpg); 
+    background-size: cover;
+}
+
+
+   
+#top {
+    width: 100%;
+    height: 50px;
+    float: left;
+    }
+  
+
+
+
+#menu {
+        width: auto;
+        height: 50px;
+        float: right;
+        margin-top: 50px;
+        margin-right: 20px;
+       }
+    
+        #menu a:link {float: left; color: #ffffff; text-decoration: none;}
+        #menu a:hover {float: left; color: #0000ff; text-decoration: none;}
+        #menu a:active {float: left; color: #ffffff; text-decoration: none;}
+        #menu a:visited {float: left; color: #ffffff; text-decoration: none;}
+        
+        #menu li {list-style-type: none;
+        margin-left: 30px;
+        float: left; font-family: monospace, sans-serif, helvetica;
+        font-size: 20px; color: #ffffff;
+        display: inline;
+        }
+            #grabber {
+        width: 100%;
+        height: 300px;
+        float: left;
+    }
+    
+        #puff {    
+    width: 30%;
+    height: auto;
+    float: left;
+    margin: 10px;
+    margin-left: 17px;
+    font-size: 20px;
+    color: #ffffff;
+    }
+    
+footer {
+    background-color: #000000; 
+    text-align:center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 75px;
+    width: 50%;
+    color: #fff; 
+    overflow:hidden;
+    font-size: 15.5px;
+    font-family: cursive;
+    
+}
+#puff1 {    
+    width: 30%;
+    height: auto;
+    float: left;
+    margin: 10px;
+    margin-left: 17px;
+    font-size: 26px;
+    color: #ffffff;
+    text-align: center;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
